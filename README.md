@@ -1,5 +1,7 @@
 # The Storyteller’s Revenge 
 
+YouTube video link as a proof that video streaming works as it should.: https://youtu.be/nYoEA4a95WA
+
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
 Project is made by Borbala Menyhart.
